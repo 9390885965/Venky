@@ -1,2 +1,2 @@
 # Venky
-this is demo project
+this is demo Git & Github classes.
